@@ -113,7 +113,7 @@
 	alternate_worn_layer = ABOVE_BODY_FRONT_HEAD_LAYER
 
 /obj/item/storage/backpack/clown
-	name = "Giggles von Honkerton"
+	name = "Giggles Honkerton I AM A RACIST ADMIN (REAL) (NOT CLICKBAIT)"
 	desc = "It's a backpack made by Honk! Co."
 	icon_state = "backpack-clown"
 	inhand_icon_state = "clownpack"
